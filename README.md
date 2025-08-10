@@ -1,6 +1,7 @@
 # Project Belajar Fundamental Deep Learning Dicoding
 ## Sentiment Analysis
-### Image Classification
+## Image Classification
+### Description
 This course [Belajar Fundamental Deep Learning](https://www.dicoding.com/academies/185/) from [Dicoding](https://www.dicoding.com/) is designed for individuals aiming to enhance their skills in deep learning 
 applications. This intermediate-level course spans approximately 110 hours and covers a wide range of topics, including image and text classification, time series analysis, recommendation systems, and 
 Generative AI. It is particularly suitable for aspiring Machine Learning Engineers and Data Scientists seeking to deepen their understanding of deep learning techniques.
