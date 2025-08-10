@@ -10,23 +10,23 @@ Generative AI. It is particularly suitable for aspiring Machine Learning Enginee
 </p>
 
 ### Syllabus
-1. Introduction to Deep Learning <br>
+#### 1. Introduction to Deep Learning <br>
 This section Explores the concepts of deep learning and the use of more complex neural networks to learn deep data representations.
-2. Neural Networks with Tensorflow and Keras <br>
+#### 2. Neural Networks with Tensorflow and Keras <br>
 This section Learn practical steps in creating and training neural network models using various leading platforms and libraries.
-3. Natural Language Processing <br>
+#### 3. Natural Language Processing <br>
 This section Implement practical steps in NLP projects using TensorFlow, including text processing, data labeling, and model building for tasks such as text classification or sentiment analysis.
-4. Time Series <br>
+#### 4. Time Series <br>
 This section Learn about building deep learning models for time series analysis, including techniques such as LSTM (Long Short-Term Memory) and RNN (Recurrent Neural Networks).
-5. Image Classification <br>
+#### 5. Image Classification <br>
 This section Demonstrates how to build and train a deep learning model for image classification, including preprocessing and model evaluation techniques.
-6. Recommendation Systems <br>
+#### 6. Recommendation Systems <br>
 This section Understand the techniques used in recommendation systems, such as collaborative and content-based filtering, as well as recommendation systems using neural networks.
-7. Reinforcement Learning <br>
+#### 7. Reinforcement Learning <br>
 This section Develops a deep understanding of reinforcement learning concepts, including algorithms such as Markov Models and Q-learning, and their applications in adaptive decision-making.
-8. Machine Learning Model Conversion <br>
+#### 8. Machine Learning Model Conversion <br>
 This section Discusses strategies and techniques for deploying and evaluating machine learning models built on various platforms and environments.
-9. The Game Changer: Generative AI <br>
+#### 9. The Game Changer: Generative AI <br>
 This section Explains the concept of generative AI and demonstrates its application in generating new content, such as images, text, and multimodal content.
 
 ### Project
